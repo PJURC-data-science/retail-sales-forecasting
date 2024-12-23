@@ -106,8 +106,8 @@ ipython==8.12.3
 
 ### Installation & Usage
 ```bash
-git clone git@github.com:TuringCollegeSubmissions/pjurci-STCI.2.1.git
-cd git@github.com:PJURC-data-science/retail-sales-forecasting.git
+git clone git@github.com:PJURC-data-science/retail-sales-forecasting.git
+cd retail-sales-forecasting
 pip install -r requirements.txt
 jupyter notebook "Retail Sales Forecasting.ipynb"
 ```
